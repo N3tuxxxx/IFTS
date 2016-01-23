@@ -1,6 +1,6 @@
 <?php
 
-edfezfzodufghlzeYGFLMizehfgljeazkhùejlzhf
+echo "edfezfzodufghlzeYGFLMizehfgljeazkhùejlzhf";
 
 
 ?>
